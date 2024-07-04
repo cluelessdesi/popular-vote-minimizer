@@ -12,6 +12,8 @@
 
 #include "MinPopVote.h"
 
+// successfully added project to github
+
 // printing State data members, all items on one line 
 // Ex: Illinois (IL): 20 EVs, 6033744 PVs
 void printState(State myState) {
